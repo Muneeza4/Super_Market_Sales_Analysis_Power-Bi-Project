@@ -15,7 +15,7 @@ This project aims to analyze and visualize supermarket sales data to gain insigh
 ## 📷 Dashboard Visuals
 
 ### 🔹 Sales Insights Overview
-![Super Market Sales Insights](Screenshot%202025-02-18%20182020.png)
+![Super Market Sales Insights](Img1.png)
 
 #### Key Metrics:
 - **Total Sales**: 10.35M
@@ -32,7 +32,7 @@ This project aims to analyze and visualize supermarket sales data to gain insigh
 ---
 
 ### 🔹 Sales & Profit Analysis
-![Super Market Sales Insights - Detailed View](Screenshot%202025-02-18%20182038.png)
+![Super Market Sales Insights - Detailed View](Img2.png)
 
 #### Key Insights:
 - **Returned Orders**: 1.079K (Indicates customer dissatisfaction trends).
@@ -70,8 +70,3 @@ This project aims to analyze and visualize supermarket sales data to gain insigh
 ## 🏆 Conclusion
 This **Super Market Sales Analysis** dashboard provides an in-depth look at key sales metrics, helping businesses optimize their decision-making process using **data-driven insights**. The interactive elements allow for **easy exploration** of trends, profitability, and sales distribution across various categories.
 
-Feel free to connect with me for feedback or improvements! 🚀
-
-Here are the images 
-![Sales Insights Dashboard](sandbox:Img1.png)
-![Sales Performance Dashboard](sandbox:Img2.png)
